@@ -1,38 +1,49 @@
 {
   "langEn": {
     "company": "New Ventures",
+    "companyLang2": "नये उपक्रम",
     "cards":[
         {
             "title":"About",
+            "titleLang2":"के बारे में",
             "content":"Magna cillum laborum laboris labore culpa. Occaecat incididunt sunt consectetur culpa ut reprehenderit aliqua in dolore incididunt tempor anim anim. Adipisicing ea incididunt labore qui qui proident nostrud. Deserunt esse consectetur eu ex nostrud tempor aliquip cupidatat sunt enim ut consectetur amet.",
+            "contentLang2":"श्रम का बड़ा दोष और श्रम का श्रम। अंधे के रूप में कम वे मुख्य दोष हैं जो किसी को आत्मा में समय के रूप में पीड़ित होने का आरोप लगाते हैं। जो चीजें हमारे दिमाग में आती हैं वो काम करती हैं। वे हमारे समय के मुख्य यूरोपीय संघ बनने के लिए छोड़ देते हैं, उद्देश्यों को मुख्य प्रेम के रूप में देखा जाता है।",
             "button": false,
             "buttonContent": "Click Here!",
             "link":"https://google.co.in"
         },
         {
             "title":"Team",
+            "titleLang2":"टीम",
             "content":"Magna cillum laborum laboris labore culpa. Occaecat incididunt sunt consectetur culpa ut reprehenderit aliqua in dolore incididunt tempor anim anim. Adipisicing ea incididunt labore qui qui proident nostrud. Deserunt esse consectetur eu ex nostrud tempor aliquip cupidatat sunt enim ut consectetur amet.",
+            "contentLang2":"श्रम का बड़ा दोष और श्रम का श्रम। अंधे के रूप में कम वे मुख्य दोष हैं जो किसी को आत्मा में समय के रूप में पीड़ित होने का आरोप लगाते हैं। जो चीजें हमारे दिमाग में आती हैं वो काम करती हैं। वे हमारे समय के मुख्य यूरोपीय संघ बनने के लिए छोड़ देते हैं, उद्देश्यों को मुख्य प्रेम के रूप में देखा जाता है।",
             "button": true,
             "buttonContent": "We're Hiring!",
             "link":"https://google.co.in"
         },
         {
             "title":"Portfolio",
+            "titleLang2":"विभाग",
             "content":"Magna cillum laborum laboris labore culpa. Occaecat incididunt sunt consectetur culpa ut reprehenderit aliqua in dolore incididunt tempor anim anim. Adipisicing ea incididunt labore qui qui proident nostrud. Deserunt esse consectetur eu ex nostrud tempor aliquip cupidatat sunt enim ut consectetur amet.",
+            "contentLang2":"श्रम का बड़ा दोष और श्रम का श्रम। अंधे के रूप में कम वे मुख्य दोष हैं जो किसी को आत्मा में समय के रूप में पीड़ित होने का आरोप लगाते हैं। जो चीजें हमारे दिमाग में आती हैं वो काम करती हैं। वे हमारे समय के मुख्य यूरोपीय संघ बनने के लिए छोड़ देते हैं, उद्देश्यों को मुख्य प्रेम के रूप में देखा जाता है।",
             "button": true,
             "buttonContent": "Investment List",
             "link":"https://google.co.in"
         },
         {
             "title":"Contact",
+            "titleLang2":"संपर्क",
             "content":"Magna cillum laborum laboris labore culpa. Occaecat incididunt sunt consectetur culpa ut reprehenderit aliqua in dolore incididunt tempor anim anim. Adipisicing ea incididunt labore qui qui proident nostrud. Deserunt esse consectetur eu ex nostrud tempor aliquip cupidatat sunt enim ut consectetur amet.",
+            "contentLang2":"श्रम का बड़ा दोष और श्रम का श्रम। अंधे के रूप में कम वे मुख्य दोष हैं जो किसी को आत्मा में समय के रूप में पीड़ित होने का आरोप लगाते हैं। जो चीजें हमारे दिमाग में आती हैं वो काम करती हैं। वे हमारे समय के मुख्य यूरोपीय संघ बनने के लिए छोड़ देते हैं, उद्देश्यों को मुख्य प्रेम के रूप में देखा जाता है।",
             "button": true,
             "buttonContent": "Send Email",
             "link":"mailto:shaan.idtindia@gmail.com"
         },
         {
             "title":"Blogs",
+            "titleLang2":"ब्लॉग",
             "content":"Magna cillum laborum laboris labore culpa. Occaecat incididunt sunt consectetur culpa ut reprehenderit aliqua in dolore incididunt tempor anim anim. Adipisicing ea incididunt labore qui qui proident nostrud. Deserunt esse consectetur eu ex nostrud tempor aliquip cupidatat sunt enim ut consectetur amet.",
+            "contentLang2":"श्रम का बड़ा दोष और श्रम का श्रम। अंधे के रूप में कम वे मुख्य दोष हैं जो किसी को आत्मा में समय के रूप में पीड़ित होने का आरोप लगाते हैं। जो चीजें हमारे दिमाग में आती हैं वो काम करती हैं। वे हमारे समय के मुख्य यूरोपीय संघ बनने के लिए छोड़ देते हैं, उद्देश्यों को मुख्य प्रेम के रूप में देखा जाता है।",
             "button": true,
             "buttonContent": "Read Blogs",
             "link":"blog"
