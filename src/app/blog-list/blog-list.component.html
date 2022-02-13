@@ -1,17 +1,17 @@
 <div class="w-screen h-full bg-white overflow-hidden flex flex-col items-center justify-center">
     <div *ngFor="let blog of blogs"
-        class="flex flex-col items-start p-4 w-4/5 h-48 justify-start mb-2 text-black">
-        <h1 class="lg:text-[12px] text-center font-semibold mt-4">{{blog.Date}} || {{blog.Tag}} </h1>
+        class="flex flex-col items-start lg:w-4/5 w-screen lg:h-48 h-36 justify-start mb-2 text-black">
+        <h1 class="lg:text-[12px] text-[8px] text-center font-semibold mt-4">{{blog.Date}} || {{blog.Tag}} </h1>
         <h1 class="lg:text-2xl font-bold text-xl">{{blog.topicEn}}</h1>
         <h1 class="lg:text-lg font-bold text-md">{{blog.topicLang2}}</h1>
-        <div class="flex mt-4">
+        <div class="flex my-4">
             <a *ngIf="blog.enLink" href="{{blog.enLink}}">
-                <button class="w-36 h-9 mr-4 font-extrabold border-black border-2 hover:bg-black hover:text-white transition">
+                <button class="lg:w-36 lg:h-9 w-20 h-8 mr-4 font-extrabold border-black border-2 hover:bg-black hover:text-white transition">
                     <h1>English</h1>
                 </button>
             </a>
             <a *ngIf="blog.lang2Link" href="{{blog.lang2Link}}">
-                <button class="w-36 h-9 font-extrabold border-black border-2 hover:bg-black hover:text-white transition">
+                <button class="lg:w-36 lg:h-9 w-20 h-8 font-extrabold border-black border-2 hover:bg-black hover:text-white transition">
                     <h1>{{blog.lang2}}</h1>
                 </button>
             </a>
