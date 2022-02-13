@@ -1,0 +1,89 @@
+{
+  "langEn": {
+    "company": "New Ventures",
+    "cards":[
+        {
+            "title":"About",
+            "content":"Magna cillum laborum laboris labore culpa. Occaecat incididunt sunt consectetur culpa ut reprehenderit aliqua in dolore incididunt tempor anim anim. Adipisicing ea incididunt labore qui qui proident nostrud. Deserunt esse consectetur eu ex nostrud tempor aliquip cupidatat sunt enim ut consectetur amet.",
+            "button": false,
+            "buttonContent": "Click Here!",
+            "link":"https://google.co.in"
+        },
+        {
+            "title":"Team",
+            "content":"Magna cillum laborum laboris labore culpa. Occaecat incididunt sunt consectetur culpa ut reprehenderit aliqua in dolore incididunt tempor anim anim. Adipisicing ea incididunt labore qui qui proident nostrud. Deserunt esse consectetur eu ex nostrud tempor aliquip cupidatat sunt enim ut consectetur amet.",
+            "button": true,
+            "buttonContent": "We're Hiring!",
+            "link":"https://google.co.in"
+        },
+        {
+            "title":"Portfolio",
+            "content":"Magna cillum laborum laboris labore culpa. Occaecat incididunt sunt consectetur culpa ut reprehenderit aliqua in dolore incididunt tempor anim anim. Adipisicing ea incididunt labore qui qui proident nostrud. Deserunt esse consectetur eu ex nostrud tempor aliquip cupidatat sunt enim ut consectetur amet.",
+            "button": true,
+            "buttonContent": "Investment List",
+            "link":"https://google.co.in"
+        },
+        {
+            "title":"Contact",
+            "content":"Magna cillum laborum laboris labore culpa. Occaecat incididunt sunt consectetur culpa ut reprehenderit aliqua in dolore incididunt tempor anim anim. Adipisicing ea incididunt labore qui qui proident nostrud. Deserunt esse consectetur eu ex nostrud tempor aliquip cupidatat sunt enim ut consectetur amet.",
+            "button": true,
+            "buttonContent": "Send Email",
+            "link":"mailto:shaan.idtindia@gmail.com"
+        },
+        {
+            "title":"Blogs",
+            "content":"Magna cillum laborum laboris labore culpa. Occaecat incididunt sunt consectetur culpa ut reprehenderit aliqua in dolore incididunt tempor anim anim. Adipisicing ea incididunt labore qui qui proident nostrud. Deserunt esse consectetur eu ex nostrud tempor aliquip cupidatat sunt enim ut consectetur amet.",
+            "button": true,
+            "buttonContent": "Read Blogs",
+            "link":"blog"
+        }
+    ],
+    "blogList":[
+        {
+            "Date":"14 Feb 2022",
+            "Tag": "Research",
+            "topicEn": "When is Crypto going to moon?",
+            "topicLang2": "क्रिप्टो चंद्रमा पर कब जा रहा है?",
+            "enLink": "https://google.com",
+            "lang2": "हिन्दी",
+            "lang2Link": "https://google.co.eu"
+        },
+        {
+            "Date":"14 Feb 2022",
+            "Tag": "Research",
+            "topicEn": "When is Crypto going to moon?",
+            "topicLang2": "क्रिप्टो चंद्रमा पर कब जा रहा है?",
+            "enLink": "https://google.com",
+            "lang2": "हिन्दी",
+            "lang2Link": "https://google.co.eu"
+        },
+        {
+            "Date":"14 Feb 2022",
+            "Tag": "Research",
+            "topicEn": "When is Crypto going to moon?",
+            "topicLang2": "क्रिप्टो चंद्रमा पर कब जा रहा है?",
+            "enLink": "https://google.com",
+            "lang2": "हिन्दी",
+            "lang2Link": "https://google.co.eu"
+        },
+        {
+            "Date":"14 Feb 2022",
+            "Tag": "Research",
+            "topicEn": "When is Crypto going to moon?",
+            "topicLang2": "क्रिप्टो चंद्रमा पर कब जा रहा है?",
+            "enLink": "https://google.com",
+            "lang2": "हिन्दी",
+            "lang2Link": "https://google.co.eu"
+        },
+        {
+            "Date":"14 Feb 2022",
+            "Tag": "Research",
+            "topicEn": "When is Crypto going to moon?",
+            "topicLang2": "क्रिप्टो चंद्रमा पर कब जा रहा है?",
+            "enLink": "https://google.com",
+            "lang2": "हिन्दी",
+            "lang2Link": "https://google.co.eu"
+        }
+    ]
+  }
+}
